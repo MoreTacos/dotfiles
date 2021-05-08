@@ -1,0 +1,6 @@
+[user]
+	name = Davide Radaelli
+	email = daviderady@gmail.com
+	username = MoreTacos
+[core]
+	editor = nvim
